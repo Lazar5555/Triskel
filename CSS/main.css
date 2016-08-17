@@ -1,0 +1,96 @@
+img{
+	max-width: 90%;
+}
+
+a{
+	color: #000000;
+}
+
+.quitar-float{
+	float:none;
+}
+
+.espacio-arriba{
+	margin-top: 40px;
+}
+
+.espacio-arriba-img{
+	margin-top: 60px;
+}
+
+.espacio-arriba-cat{
+	margin-top: 70px;
+}
+
+.espacio-row{
+	margin-top: 100px;
+}
+
+.margin-links{
+	margin-top: 10px;
+}
+
+.margin-triskel{
+	text-align: right;
+}
+
+.margin-tienda{
+	text-align: left;
+}
+
+.kaushan{
+	font-family: 'Kaushan Script', cursive;
+	color: #000000;
+	font-size: 4em;
+}
+
+.kaushan-nav{
+	font-family: 'Kaushan Script', cursive;
+	color: #000000;
+	font-size: 2em;
+}
+
+.karla{
+	font-family: 'Karla', sans-serif;
+	font-size: 15px;
+}
+
+.karla-grande{
+	font-size: 2em;
+}
+
+
+.no-lista li{
+	list-style-type: none;
+}
+
+.lista-libre{
+	padding: 0px;
+	margin: 0px;
+}
+
+.inline-block{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
+
+.gris-back{
+	background-color: #A7A7A7;
+}
+
+.padding-largo{
+	padding: 5px, 10px;
+}
+
+.gris{
+	color: #A7A7A7;
+}
+
+.negro{
+	color: #000000;
+}
+
+.espacio-rayas{
+	margin-bottom: 	30px;
+}
