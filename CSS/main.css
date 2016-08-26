@@ -6,6 +6,17 @@ a{
 	color: #000000;
 }
 
+.img-productos{
+	max-width: 80%
+}
+
+.img-redes{
+	max-width: 60%;
+}
+
+.img-insta{
+	max-width: 85%;
+}
 .quitar-float{
 	float:none;
 }
@@ -19,7 +30,7 @@ a{
 }
 
 .espacio-arriba-cat{
-	margin-top: 70px;
+	margin-top: 60px;
 }
 
 .espacio-row{
@@ -27,7 +38,7 @@ a{
 }
 
 .margin-links{
-	margin-top: 10px;
+	margin-top: 0px;
 }
 
 .margin-triskel{
@@ -50,15 +61,20 @@ a{
 	font-size: 2em;
 }
 
-.karla{
-	font-family: 'Karla', sans-serif;
-	font-size: 15px;
+.rokkitt{
+	font-family: 'Rokkitt', serif;
+	font-size: 17px;
 }
 
-.karla-grande{
-	font-size: 2em;
+.rokkitt-grande{
+	font-family: 'Rokkitt', serif;
+	font-size: 35px;	
 }
 
+.rokkitt-eg{
+	font-family: 'Rokkitt', serif;
+	font-size: 45px;	
+}
 
 .no-lista li{
 	list-style-type: none;
@@ -93,4 +109,28 @@ a{
 
 .espacio-rayas{
 	margin-bottom: 	30px;
+}
+
+.retraso-15{
+	-webkit-animation-delay: 1.5s;
+	-moz-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+
+.retraso-5{
+	-webkit-animation-delay: 5s;
+	-moz-animation-delay: 5s;
+	animation-delay: 5s;
+}
+
+.repetir{
+	animation-iteration-count: infinite;
+}
+
+.vete-arriba{
+	vertical-align: top;
+}
+
+.vete-abajo{
+	vertical-align: end;
 }
